@@ -1,0 +1,12 @@
+.linkUser{
+    font-size: 2rem;
+}
+
+.linkUser:hover{
+    text-decoration: none;
+    color: #b58202;
+}
+
+#divBids{
+    display: none;
+}
